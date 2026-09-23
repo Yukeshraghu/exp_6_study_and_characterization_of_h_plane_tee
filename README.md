@@ -58,6 +58,9 @@ Because of the symmetry of the tee, when power enters the auxiliary arm and the 
 * Signal Source: Reflex Klystron (1 kHz Square-Wave Modulated)
 * Reference Attenuator Setting ($A_1$): `38.0 dB` (Direct connection without H-Plane Tee)
 
+<img width="1022" height="1572" alt="image" src="https://github.com/user-attachments/assets/fb0c7cf4-8dac-41df-bf64-321b6bc2a7fd" />
+
+
 #### Table 1: Power Division & Coupling Characteristics (Input at H-Arm, Port 3)
 | Input Port | Output Port | Terminated Port | Attenuator Reading $A_2$ (dB) | Power Received $P_{\text{out}}$ (dB) | Coupling Factor $(A_1 - A_2)$ (dB) | Theoretical Value (dB) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
